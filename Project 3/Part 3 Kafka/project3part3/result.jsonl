@@ -1,0 +1,10 @@
+{"name": [null, "John", "Backus"], "age": 82.28752240166666, "num_contribs": 4, "min_max": ["1967", "1993"]}
+{"name": [null, "John", "McCarthy"], "age": 84.30387544833333, "num_contribs": 3, "min_max": ["1971", "1990"]}
+{"name": [null, "Grace", "Hopper"], "age": 85.06182795666668, "num_contribs": 4, "min_max": ["1969", "1991"]}
+{"name": [null, "Kristen", "Nygaard"], "age": 75.954301075, "num_contribs": 2, "min_max": ["1999", "2001"]}
+{"name": [null, "Ole-Johan", "Dahl"], "age": 70.71236559166667, "num_contribs": 2, "min_max": ["1999", "2001"]}
+{"name": [null, "Guido", "van Rossum"], "age": null, "num_contribs": 1, "min_max": ["2001", "2003"]}
+{"name": [null, "Dennis", "Ritchie"], "age": 70.09139784916667, "num_contribs": 2, "min_max": ["1983", "2011"]}
+{"name": ["Matz", "Yukihiro", "Matsumoto"], "age": null, "num_contribs": 1, "min_max": ["2011", "2011"]}
+{"name": [null, "James", "Gosling"], "age": null, "num_contribs": 1, "min_max": ["2002", "2007"]}
+{"name": [null, "Martin", "Odersky"], "age": null, "num_contribs": 1, "min_max": [null, null]}
